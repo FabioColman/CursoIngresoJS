@@ -1,0 +1,6 @@
+COMANDOS PARA SUBIR MODIFICAR Y GUARDAR CAMBIOS EN GITHUB
+
+git clone pegar(link de mi repositorio) 
+git add .
+git commit -m"hice  determinados cambios"
+git push
